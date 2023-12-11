@@ -24,7 +24,7 @@ tianqiRouter.get("/tianqi", async (ctx) => {
     }
     let district_id = 222405;
     // const ipResponse = await axios.get(`http://api.map.baidu.com/location/ip?ip=${ip}&ak=IjlQyeDxGb3QGxhcD7Wsik6UISYieSLt&coor=bd09ll`);
-    const ipResponse = await axios.get(`http://api.map.baidu.com/location/ip?ip=${'221.2.80.253' || ip}&ak=IjlQyeDxGb3QGxhcD7Wsik6UISYieSLt&coor=bd09ll`);
+    const ipResponse = await axios.get(`http://api.map.baidu.com/location/ip?ip=${ip}&ak=IjlQyeDxGb3QGxhcD7Wsik6UISYieSLt&coor=bd09ll`);
     console.log('testMessage', ipResponse.data.content.address_detail.adcode);
     if (ipResponse.data.content.address_detail.adcode) {
       district_id = ipResponse.data.content.address_detail.adcode
