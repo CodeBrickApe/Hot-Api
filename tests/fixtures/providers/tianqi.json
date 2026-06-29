@@ -1,0 +1,9 @@
+{
+  "status": 0,
+  "district_id": "222405",
+  "result": {
+    "location": {
+      "city": "Fixture city"
+    }
+  }
+}

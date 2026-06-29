@@ -1,0 +1,19 @@
+{
+  "idlist": [
+    {
+      "newslist": [
+        {
+          "id": "HEADER"
+        },
+        {
+          "id": "NEWSQQ1",
+          "title": "Tencent fixture news",
+          "abstract": "Tencent fixture abstract",
+          "nlpAbstract": "Tencent short abstract",
+          "readCount": 1234,
+          "miniProShareImage": "https://example.com/newsqq.jpg"
+        }
+      ]
+    }
+  ]
+}

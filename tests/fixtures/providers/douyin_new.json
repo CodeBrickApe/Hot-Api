@@ -1,0 +1,14 @@
+{
+  "data": {
+    "word_list": [
+      {
+        "word": "Douyin new fixture topic",
+        "word_cover": {
+          "url_list": ["https://example.com/douyin-new.jpg"]
+        },
+        "hot_value": "789",
+        "sentence_id": "sentence-new"
+      }
+    ]
+  }
+}

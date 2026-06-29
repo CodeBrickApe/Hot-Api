@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "id": 1001,
+      "title": "Sspai fixture article",
+      "summary": "Sspai fixture summary",
+      "banner": "sspai-fixture.jpg",
+      "author": "Sspai author",
+      "like_count": 88
+    }
+  ]
+}

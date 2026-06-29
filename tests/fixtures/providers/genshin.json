@@ -1,0 +1,20 @@
+{
+  "data": {
+    "list": [
+      {
+        "id": "genshin-1",
+        "title": "Genshin fixture news",
+        "summary": "Genshin fixture summary",
+        "ext": [
+          {
+            "value": [
+              {
+                "url": "https://example.com/genshin.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

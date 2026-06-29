@@ -1,0 +1,15 @@
+{
+  "06": {
+    "0601": [
+      {
+        "year": "1926",
+        "title": "<b>Stable history event</b>",
+        "desc": "<p>Fixture description</p>",
+        "pic_share": "https://example.com/history-share.jpg",
+        "pic_calendar": "https://example.com/history-avatar.jpg",
+        "type": "event",
+        "link": "https://example.com/history"
+      }
+    ]
+  }
+}

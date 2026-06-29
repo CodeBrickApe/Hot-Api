@@ -1,0 +1,15 @@
+{
+  "data": {
+    "hotRankList": [
+      {
+        "itemId": "36kr-1",
+        "templateMaterial": {
+          "widgetTitle": "36Kr fixture title",
+          "widgetImage": "https://example.com/36kr.jpg",
+          "authorName": "36Kr author",
+          "statRead": 321
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "readingCount": 999,
+      "bookInfo": {
+        "bookId": "123456789",
+        "title": "Weread fixture book",
+        "intro": "Weread fixture intro",
+        "cover": "https://cdn.weread.qq.com/s_fixture.jpg",
+        "author": "Weread author"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "ClusterId": 123,
+      "ClusterIdStr": "123str",
+      "Title": "Toutiao fixture topic",
+      "Image": {
+        "url": "https://example.com/toutiao.jpg"
+      },
+      "HotValue": 345
+    }
+  ]
+}

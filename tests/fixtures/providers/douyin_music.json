@@ -1,0 +1,19 @@
+{
+  "music_list": [
+    {
+      "music_info": {
+        "id": "music-1",
+        "title": "Fixture song",
+        "album": "Fixture album",
+        "author": "Fixture artist",
+        "cover_large": {
+          "url_list": ["https://example.com/song.jpg"]
+        },
+        "lyric_url": "https://example.com/song.lrc",
+        "play_url": {
+          "uri": "https://example.com/song.mp3"
+        }
+      }
+    }
+  ]
+}

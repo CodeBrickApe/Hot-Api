@@ -1,0 +1,1 @@
+jQuery191002324053053181463_1687855508930({"data":{"result":[{"sTitle":"LOL fixture notice","sAuthor":"Fixture author","sIMG":"//game.gtimg.cn/fixture.jpg","iTotalPlay":"101","iDocID":"lol-doc-1"}]}})

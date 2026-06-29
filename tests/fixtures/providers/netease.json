@@ -1,0 +1,14 @@
+{
+  "data": {
+    "list": [
+      {
+        "skipID": "NETEASE1",
+        "title": "Netease fixture news",
+        "_keyword": "Fixture keyword",
+        "imgsrc": "https://example.com/netease.jpg",
+        "source": "Fixture source",
+        "url": "https://m.163.com/news/article/NETEASE1.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "list": [
+      {
+        "bvid": "BV1fixture",
+        "title": "Fixture video",
+        "desc": "A stable parser sample",
+        "pic": "http://i0.hdslb.com/bfs/archive/fixture.jpg",
+        "owner": {
+          "name": "fixture-owner"
+        },
+        "stat": {
+          "view": 98765,
+          "like": 123
+        },
+        "short_link_v2": "https://b23.tv/BV1fixture"
+      }
+    ]
+  }
+}

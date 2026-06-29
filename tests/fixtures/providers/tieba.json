@@ -1,0 +1,16 @@
+{
+  "data": {
+    "bang_topic": {
+      "topic_list": [
+        {
+          "topic_id": "tieba-1",
+          "topic_name": "Tieba fixture topic",
+          "topic_desc": "Tieba fixture desc",
+          "topic_pic": "https://example.com/tieba.jpg",
+          "discuss_num": 234,
+          "topic_url": "https://tieba.baidu.com/hottopic/tieba-1"
+        }
+      ]
+    }
+  }
+}

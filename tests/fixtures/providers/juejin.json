@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "content": {
+        "content_id": "juejin-1",
+        "title": "Juejin fixture article",
+        "brief": "Juejin fixture brief"
+      },
+      "content_counter": {
+        "hot_rank": 42
+      }
+    }
+  ]
+}

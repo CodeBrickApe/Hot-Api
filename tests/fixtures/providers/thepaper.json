@@ -1,0 +1,13 @@
+{
+  "data": {
+    "hotNews": [
+      {
+        "contId": "paper-1",
+        "name": "The Paper fixture news",
+        "pic": "https://example.com/thepaper.jpg",
+        "praiseTimes": 77,
+        "pubTime": "2026-06-29 10:00"
+      }
+    ]
+  }
+}
